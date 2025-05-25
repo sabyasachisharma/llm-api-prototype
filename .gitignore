@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+
+# Python Virtual Environment
+venv/
+
+# IDE - VSCode
+.vscode/*
+
+
+# IDE - PyCharm
+.idea/
+*.iml
+*.iws
+
+# Logs and databases
+*.log
+*.db
+
+# OS generated files
+.DS_Store
+.DS_Store?
